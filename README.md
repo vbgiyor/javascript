@@ -1,1 +1,1 @@
-[Upload JSON or CSV](/csvJsonToHtml/htmlTable.html)
+[Upload JSON or CSV](/csvJsonToHtmlTable/htmlTable.html)
